@@ -1,0 +1,17 @@
+.content {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .main-content {
+    flex-grow: 3;
+  }
+
+  :root {
+    --primary: #58a4b0;
+    --secundary: #373f51;
+    --secundary-active: #cccccc;
+    --background-: #ffffff;
+    --datails-background: #ececec;
+  }
+  
